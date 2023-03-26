@@ -1,0 +1,51 @@
+.heading{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    margin-left: 440px;
+}
+
+.name{
+    margin-left: 470px;
+}
+
+.table{
+    width:200px;
+    margin-left: 410px;
+}
+
+.btn{
+    margin-left: 475px;
+}
+
+.table{
+    margin: 1px;
+    width: 1000px;
+}
+
+.button{
+    background-color: rgb(24, 156, 82);
+    margin: 6px;
+}
+
+.d-button{
+    background-color: rgb(190, 49, 49);
+}
+
+.Ctable{
+    width:200px;
+    margin-left: 410px;
+}
+
+.database{
+   margin-left: 446px;
+}
+
+.create{
+    margin-top: 50px;
+    margin-left: 480px;
+}
+
+.editheading{
+    margin-left: 469px;
+}
