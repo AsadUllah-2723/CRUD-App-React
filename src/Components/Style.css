@@ -1,21 +1,30 @@
 .heading{
+    display: flex;
     align-items: center;
     justify-content: center;
-    align-self: center;
-    margin-left: 440px;
 }
 
-.name{
-    margin-left: 470px;
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
 }
 
-.table{
-    width:200px;
-    margin-left: 410px;
-}
 
 .btn{
-    margin-left: 475px;
+    width: 100%;
+}
+
+.save{
+    width: auto;
+    background-color: black;
+    color: white;
+    padding: 10px 50px;
+    border: 2px solid black;
+    border-radius: 50px;
 }
 
 .table{
@@ -32,14 +41,6 @@
     background-color: rgb(190, 49, 49);
 }
 
-.Ctable{
-    width:200px;
-    margin-left: 410px;
-}
-
-.database{
-   margin-left: 446px;
-}
 
 .create{
     margin-top: 50px;
@@ -47,5 +48,7 @@
 }
 
 .editheading{
-    margin-left: 469px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

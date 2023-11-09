@@ -32,7 +32,7 @@ const Edit = () => {
      Edit
     </h2>
     <hr/>
-    <form>
+    <form className='form'>
    <div className="mb-3">
      <label  className="name form-label">Platform</label>
      <input type="text" className="Ctable form-control" 
